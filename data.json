@@ -1,0 +1,32 @@
+{
+    "squadName": "Bokwai United",
+    "HomeTown": "Buea, Cameroon",
+    "formed": 2022,
+    "active": true,
+    "players": [
+        {
+            "name": "Sammah",
+            "age": "11",
+            "completeName": "Sammah Vakery Kato Namuene",
+            "skills": ["Fast dribbling", "Good tackle", "Great scorer"]
+        },
+        {
+            "name": "Wolonge",
+            "age": "09",
+            "completeName": "Cahill Wolonge Kato Namuene",
+            "skills": ["Good defending",
+            "Good tackle",
+            "Great header"
+        ]
+        },
+        {
+            "name": "Wolonge",
+            "age": "09",
+            "completeName": "Cahill Wolonge Kato Namuene",
+            "skills": ["Good defending",
+            "Good tackle",
+            "Great header"
+        ]
+        }
+    ]
+}

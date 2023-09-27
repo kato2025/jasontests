@@ -1,32 +1,41 @@
 {
-    "squadName": "Bokwai United",
-    "HomeTown": "Buea, Cameroon",
-    "formed": 2022,
-    "active": true,
-    "players": [
-        {
-            "name": "Sammah",
-            "age": "11",
-            "completeName": "Sammah Vakery Kato Namuene",
-            "skills": ["Fast dribbling", "Good tackle", "Great scorer"]
-        },
-        {
-            "name": "Wolonge",
-            "age": "09",
-            "completeName": "Cahill Wolonge Kato Namuene",
-            "skills": ["Good defending",
-            "Good tackle",
-            "Great header"
+    "squadName" : "Pala Pala Squad",
+    "homeTown" : "Bokwai Buea",
+    "formed" : 2016,
+    "secretBase" : "Pala Pala Field",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "Konga",
+        "age" : 29,
+        "secretIdentity" : "Bokwai Kpai",
+        "powers" : [
+          "Strong arms",
+          "Pin foot",
+          "Hard to drop down"
         ]
-        },
-        {
-            "name": "Wolonge",
-            "age": "09",
-            "completeName": "Cahill Wolonge Kato Namuene",
-            "skills": ["Good defending",
-            "Good tackle",
-            "Great header"
+      },
+      {
+        "name" : "Lingolo",
+        "age" : 39,
+        "secretIdentity" : "Bokoko Nginya",
+        "powers" : [
+          "Strong shoulders",
+          "Strong wrist",
+          "Hard muscles"
         ]
-        }
+      },
+      {
+        "name" : "Miinde",
+        "age" : 1000000,
+        "secretIdentity" : "Bonduma Lelu",
+        "powers" : [
+          "Very adaptable",
+          "Strong limbs",
+          "Aggressive",
+          "Never gives up",
+          "Resilient"
+        ]
+      }
     ]
-}
+  }
